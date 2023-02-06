@@ -1,0 +1,12 @@
+E:\Apply\Project\Calculator\Src\Calculator.Domain\bin\Debug\net6.0\Calculator.Domain.deps.json
+E:\Apply\Project\Calculator\Src\Calculator.Domain\bin\Debug\net6.0\Calculator.Domain.dll
+E:\Apply\Project\Calculator\Src\Calculator.Domain\bin\Debug\net6.0\ref\Calculator.Domain.dll
+E:\Apply\Project\Calculator\Src\Calculator.Domain\bin\Debug\net6.0\Calculator.Domain.pdb
+E:\Apply\Project\Calculator\Src\Calculator.Domain\obj\Debug\net6.0\Calculator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Apply\Project\Calculator\Src\Calculator.Domain\obj\Debug\net6.0\Calculator.Domain.AssemblyInfoInputs.cache
+E:\Apply\Project\Calculator\Src\Calculator.Domain\obj\Debug\net6.0\Calculator.Domain.AssemblyInfo.cs
+E:\Apply\Project\Calculator\Src\Calculator.Domain\obj\Debug\net6.0\Calculator.Domain.csproj.CoreCompileInputs.cache
+E:\Apply\Project\Calculator\Src\Calculator.Domain\obj\Debug\net6.0\Calculator.Domain.dll
+E:\Apply\Project\Calculator\Src\Calculator.Domain\obj\Debug\net6.0\ref\Calculator.Domain.dll
+E:\Apply\Project\Calculator\Src\Calculator.Domain\obj\Debug\net6.0\Calculator.Domain.pdb
+E:\Apply\Project\Calculator\Src\Calculator.Domain\obj\Debug\net6.0\Calculator.Domain.csproj.AssemblyReference.cache

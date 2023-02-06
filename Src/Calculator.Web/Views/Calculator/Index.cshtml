@@ -1,0 +1,61 @@
+﻿@model CalculatorViewModel
+@{
+    ViewData["Title"] = "Calculator Page";
+}
+
+<div class="text-center">
+    <h1 class="card-title mb-4">Calculator</h1>
+
+
+    <div class="card">
+        <div class="card-body">
+            <form name="CalcForm" asp-controller="Calculator" asp-action="Index" enctype="multipart/form-data" method="post">
+                <dl class="row card-text bg-light">
+
+                    <dt class="col-sm-2">
+                        <span></span>
+                    </dt>
+                    <dd class="col-sm-9">
+                        <input class="form-control col-sm-5" asp-for="FirstNumber" type="text" placeholder="First Number" onkeyup="RomanNumeralCheckFunc(document.CalcForm.FirstNumber)"/>
+                    </dd>
+                     <span asp-validation-for="FirstNumber" class="text-danger" ></span>
+                    <dt class="col-sm-2">
+                        <span>+</span>
+                    </dt>
+                    <dd class="col-sm-9">
+                        <input class="form-control col-sm-5" asp-for="SecoundNumber" type="text" placeholder="Secound Number" onkeyup="RomanNumeralCheckFunc(document.CalcForm.SecoundNumber)" />
+                    </dd>
+                     <span asp-validation-for="FirstNumber" class="text-danger"></span>
+                    <dt class="col-sm-2">
+                        =
+                    </dt>
+                    <dd class="col-sm-9">
+                        <input class="form-control col-sm-5" asp-for="Result"  type="text"  readonly="readonly" value="@Model.Result " placeholder="Result" />
+                    </dd>
+                </dl>
+                <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                    <input class="btn btn-danger me-md-2" type="submit"  />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<script>
+
+    function RomanNumeralCheckFunc(name)
+    {
+        debugger;
+       var regEx =/[IVXLCDM]/;
+       for (var i = 0; i < name.value.length; i++) {
+       if(!name.value[i].match(regEx))
+         {
+         alert("Please enter Roman numerals.");
+         name.value="";
+         return false;
+         }
+       }
+       return true;
+    }
+   
+
+</script>

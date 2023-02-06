@@ -1,0 +1,17 @@
+E:\Apply\Project\Calculator\Src\Calculator.Service\bin\Release\net6.0\Calculator.Service.deps.json
+E:\Apply\Project\Calculator\Src\Calculator.Service\bin\Release\net6.0\Calculator.Service.dll
+E:\Apply\Project\Calculator\Src\Calculator.Service\bin\Release\net6.0\ref\Calculator.Service.dll
+E:\Apply\Project\Calculator\Src\Calculator.Service\bin\Release\net6.0\Calculator.Service.pdb
+E:\Apply\Project\Calculator\Src\Calculator.Service\bin\Release\net6.0\Calculator.Common.dll
+E:\Apply\Project\Calculator\Src\Calculator.Service\bin\Release\net6.0\Calculator.Domain.dll
+E:\Apply\Project\Calculator\Src\Calculator.Service\bin\Release\net6.0\Calculator.Common.pdb
+E:\Apply\Project\Calculator\Src\Calculator.Service\bin\Release\net6.0\Calculator.Domain.pdb
+E:\Apply\Project\Calculator\Src\Calculator.Service\obj\Release\net6.0\Calculator.Service.csproj.AssemblyReference.cache
+E:\Apply\Project\Calculator\Src\Calculator.Service\obj\Release\net6.0\Calculator.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Apply\Project\Calculator\Src\Calculator.Service\obj\Release\net6.0\Calculator.Service.AssemblyInfoInputs.cache
+E:\Apply\Project\Calculator\Src\Calculator.Service\obj\Release\net6.0\Calculator.Service.AssemblyInfo.cs
+E:\Apply\Project\Calculator\Src\Calculator.Service\obj\Release\net6.0\Calculator.Service.csproj.CoreCompileInputs.cache
+E:\Apply\Project\Calculator\Src\Calculator.Service\obj\Release\net6.0\Calculator.Service.csproj.CopyComplete
+E:\Apply\Project\Calculator\Src\Calculator.Service\obj\Release\net6.0\Calculator.Service.dll
+E:\Apply\Project\Calculator\Src\Calculator.Service\obj\Release\net6.0\ref\Calculator.Service.dll
+E:\Apply\Project\Calculator\Src\Calculator.Service\obj\Release\net6.0\Calculator.Service.pdb

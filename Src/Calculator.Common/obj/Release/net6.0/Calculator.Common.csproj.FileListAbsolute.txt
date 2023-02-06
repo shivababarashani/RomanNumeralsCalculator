@@ -1,0 +1,12 @@
+E:\Apply\Project\Calculator\Src\Calculator.Common\bin\Release\net6.0\Calculator.Common.deps.json
+E:\Apply\Project\Calculator\Src\Calculator.Common\bin\Release\net6.0\Calculator.Common.dll
+E:\Apply\Project\Calculator\Src\Calculator.Common\bin\Release\net6.0\ref\Calculator.Common.dll
+E:\Apply\Project\Calculator\Src\Calculator.Common\bin\Release\net6.0\Calculator.Common.pdb
+E:\Apply\Project\Calculator\Src\Calculator.Common\obj\Release\net6.0\Calculator.Common.csproj.AssemblyReference.cache
+E:\Apply\Project\Calculator\Src\Calculator.Common\obj\Release\net6.0\Calculator.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Apply\Project\Calculator\Src\Calculator.Common\obj\Release\net6.0\Calculator.Common.AssemblyInfoInputs.cache
+E:\Apply\Project\Calculator\Src\Calculator.Common\obj\Release\net6.0\Calculator.Common.AssemblyInfo.cs
+E:\Apply\Project\Calculator\Src\Calculator.Common\obj\Release\net6.0\Calculator.Common.csproj.CoreCompileInputs.cache
+E:\Apply\Project\Calculator\Src\Calculator.Common\obj\Release\net6.0\Calculator.Common.dll
+E:\Apply\Project\Calculator\Src\Calculator.Common\obj\Release\net6.0\ref\Calculator.Common.dll
+E:\Apply\Project\Calculator\Src\Calculator.Common\obj\Release\net6.0\Calculator.Common.pdb
