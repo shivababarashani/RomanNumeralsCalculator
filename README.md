@@ -1,5 +1,24 @@
-Roman Numerals
-Write a function which allow the user to enter two valid roman numbers and request the computation of their sum, which the system then also displays in its roman representation as well.
+<div dir="ltr">
+
+# Roman Numerals Calculator
+
+This project allow the user to enter two valid roman numbers and request the computation of their sum, which the system then also displays in its roman representation as well
+
+
+
+
+
+## Techniques and Features
+- Exception Handling using Custom Middleware
+- Automatic Validation
+- MVVM
+- Unit testing via XUnit
+- TDD Approach
+- Using [Swagger](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) (Swashbuckle)
+
+
+# Roman Numerals
+
 The Romans were a clever bunch. They conquered most of Europe and ruled it for hundreds of years. They invented concrete and straight roads and even bikinis. One thing they never discovered though was the number zero. This made writing and dating extensive histories of their exploits slightly more challenging, but the system of numbers they came up with is still in use today. For example the BBC uses Roman numerals to date their programmes.
 The Romans wrote numbers using letters - I, V, X, L, C, D, M. (notice these letters have lots of straight lines and are hence easy to hack into stone tablets).
  1   => I
@@ -16,19 +35,11 @@ In Roman numerals 1990 is MCMXC:
 
 
 
-References
+## References
 1. https://en.wikipedia.org/wiki/Roman_numerals
 2. https://www.math-only-math.com/rules-for-formation-of-roman-numerals.html
 3. http://www.novaroma.org/via_romana/numbers.html
 
-
-About My Project
-I have implemented this project in ASP.net Core MVC. It contains following features
-1. Application is implemented on Onion architecture
-2. Expection handling
-3. Unit testing via XUnit
-4. Test-first Approach
-
-Conclusion
-This challenge is a useful exercise in understanding the relationship between how we represent our data and the actions we want to perform on it—a dynamic you'll see at play in almost every piece of software you write. How did we decide to represent the relationship between a Roman numeral and its number equivalent (e.g., X to 10)? Was it easy to map from one to the other? Were all the mappings organized together? Did our representation of the relationship make it easier or harder when it came time to switch to modern Roman numerals?
+## Conclusion
+This challenge is a useful exercise in understanding the relationship between how we represent our data and the actions we want to perform on itâ€”a dynamic you'll see at play in almost every piece of software you write. How did we decide to represent the relationship between a Roman numeral and its number equivalent (e.g., X to 10)? Was it easy to map from one to the other? Were all the mappings organized together? Did our representation of the relationship make it easier or harder when it came time to switch to modern Roman numerals?
 
